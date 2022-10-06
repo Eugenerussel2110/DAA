@@ -20,3 +20,4 @@ int main()
 	printf("minimum of array is:%d\n",min);
 	printf("maximum of array is:%d\n",max);
 }
+
