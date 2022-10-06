@@ -16,3 +16,4 @@ fact=factorial(number);
 printf("factorial of %d is %d\n",number,fact);
 return 0;
 }
+
