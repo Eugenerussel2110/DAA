@@ -6,7 +6,7 @@ int main(void)
         for(int j=2;j<i;j++)
         {
             if(i%j==0)
-                break;
+                break
             else if(i==j+1)
                 printf("%d\n",i);
         }
