@@ -9,6 +9,7 @@ char* copyString(char s[])
     strcpy(s2, s);
     return (char*)s2;
 }
+
 int main()
 {
     char s1[20] = "GeeksforGeeks";
