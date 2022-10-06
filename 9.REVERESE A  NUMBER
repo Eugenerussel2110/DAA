@@ -12,3 +12,4 @@ int main()
 	}
 	printf("reverse of the given number is %d\n",rev);
 }
+
